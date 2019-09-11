@@ -8,4 +8,7 @@ Click on the green flag to begin to find out about a specific person with a care
 
 <iframe src="https://scratch.mit.edu/projects/325787088/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
+<a href="https://codeclub.org/en/python1">
+<img src="images/Clickme.png">
+
 --- /task ---
